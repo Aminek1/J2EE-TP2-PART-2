@@ -1,6 +1,6 @@
 <h3>Compte rendu<h3>
 
-<h4>1-Les dépendances JPA, H2, Spring Web, Lombock et Mysql</h4>
+<h4>1-Les dépendances JPA, H2, Spring Web et Lombock</h4>
 <img src="Captures/Dependences.png" alt="">
 
 <h4>2 -L'entité Patient</h4>
@@ -17,7 +17,6 @@
 
 <h4>3-L'application.properties </h4>
 <img src="Captures/ApplicationProp.png" alt="">
-
 
 <h4>4-HopitalApllication</h4>
 <img src="Captures/HopitalApp.png" alt="">
